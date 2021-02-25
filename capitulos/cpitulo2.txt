@@ -1,0 +1,3 @@
+1hacer cambios
+2añadir cambios
+3hacer commit de cambios
